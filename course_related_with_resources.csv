@@ -1,0 +1,35 @@
+﻿Môn học,Độ khó trung bình,Môn liên quan (Top 3),Khóa học gợi ý
+Cơ sở và ứng dụng AI,4.4,[],"['Deep Learning Specialization - Coursera', 'AI for Everyone - Andrew Ng', 'FastAI Practical Course', 'Intro to AI - edX']"
+Cơ sở và ứng dụng IoT,4.4,[],['No specific course recommendations found.']
+Cấu trúc rời rạc,4.4,[],['No specific course recommendations found.']
+Giải thuật và cấu trúc dữ liệu,4.3,[],"['Intro to SQL - Khan Academy', 'Database Design - Coursera', 'MongoDB University', 'Advanced SQL Techniques']"
+Hệ cơ sở dữ liệu,4.2,[],"['Intro to SQL - Khan Academy', 'Database Design - Coursera', 'MongoDB University', 'Advanced SQL Techniques']"
+Hệ thống nhúng,4.2,['Thiết kế hệ thống nhúng (similarity: 0.77)'],"['Embedded Systems - Coursera', 'Arduino for Beginners', 'Real-time Embedded Systems', 'Microcontroller Programming - Udemy']"
+Hệ điều hành thời gian thực,4.3,[],['No specific course recommendations found.']
+Khóa luận tốt nghiệp,4.3,[],['No specific course recommendations found.']
+Kiến trúc và tổ chức máy tính,4.1,[],['No specific course recommendations found.']
+Kỹ thuật số,4.3,[],['No specific course recommendations found.']
+Kỹ thuật truyền số liệu,4.2,[],['No specific course recommendations found.']
+Lập trình hướng đối tượng với C++,4.2,[],"['C++ for Programmers', 'Python for Everybody', 'Java Programming Masterclass', 'Object-Oriented Programming - Udemy']"
+Máy học ứng dụng,4.3,[],"['Machine Learning - Stanford', 'Intro to ML with PyTorch - Udacity', 'Hands-On ML with Scikit-Learn', 'ML Crash Course - Google']"
+Mạch điện,4.2,[],['No specific course recommendations found.']
+Mạng máy tính và Internet,4.3,['Mạng vô tuyến và di động (similarity: 0.57)'],"['Computer Networking - Stanford', 'Cisco CCNA', 'Networking Fundamentals - Udemy', 'Practical Network Protocols']"
+Mạng vô tuyến và di động,4.4,['Mạng máy tính và Internet (similarity: 0.57)'],"['Computer Networking - Stanford', 'Cisco CCNA', 'Networking Fundamentals - Udemy', 'Practical Network Protocols']"
+Ngôn ngữ lập trình C,4.4,[],"['C++ for Programmers', 'Python for Everybody', 'Java Programming Masterclass', 'Object-Oriented Programming - Udemy']"
+Nhập môn ngành CNKT máy tính,4.2,[],['No specific course recommendations found.']
+Phát triển ứng dụng di động,4.4,[],['No specific course recommendations found.']
+Thiết kế FPGA/ASIC với Verilog,4.2,['Thiết kế mạch tích hợp VLSI (similarity: 0.53)'],['No specific course recommendations found.']
+Thiết kế hệ thống nhúng,4.4,"['Hệ thống nhúng (similarity: 0.77)', 'Thiết kế kết hợp HW/SW (similarity: 0.52)']","['Embedded Systems - Coursera', 'Arduino for Beginners', 'Real-time Embedded Systems', 'Microcontroller Programming - Udemy']"
+Thiết kế kết hợp HW/SW,4.4,['Thiết kế hệ thống nhúng (similarity: 0.52)'],['No specific course recommendations found.']
+Thiết kế mạch tích hợp VLSI,4.2,"['Thiết kế FPGA/ASIC với Verilog (similarity: 0.53)', 'Thiết kế vi mạch tương tự (similarity: 0.51)']",['No specific course recommendations found.']
+Thiết kế vi mạch tương tự,4.1,['Thiết kế mạch tích hợp VLSI (similarity: 0.51)'],['No specific course recommendations found.']
+Toán 1,4.4,"['Toán 2 (similarity: 0.65)', 'Toán 3 (similarity: 0.65)']","['Calculus - Khan Academy', 'Linear Algebra - MIT OCW', 'Probability & Statistics - Udacity', 'Discrete Mathematics - Coursera']"
+Toán 2,4.4,"['Toán 1 (similarity: 0.65)', 'Toán 3 (similarity: 0.54)']","['Calculus - Khan Academy', 'Linear Algebra - MIT OCW', 'Probability & Statistics - Udacity', 'Discrete Mathematics - Coursera']"
+Toán 3,4.3,"['Toán 1 (similarity: 0.65)', 'Toán 2 (similarity: 0.54)']","['Calculus - Khan Academy', 'Linear Algebra - MIT OCW', 'Probability & Statistics - Udacity', 'Discrete Mathematics - Coursera']"
+Tín hiệu và hệ thống,4.3,['Xử lý tín hiệu số (similarity: 0.69)'],"['Digital Signal Processing - Coursera', 'Signals & Systems - MIT', 'Practical DSP', 'DSP with MATLAB']"
+Vật lý 1,4.3,['Vật lý 2 (similarity: 0.78)'],['No specific course recommendations found.']
+Vật lý 2,4.3,['Vật lý 1 (similarity: 0.78)'],['No specific course recommendations found.']
+Xác suất thống kê ứng dụng,4.2,[],"['Calculus - Khan Academy', 'Linear Algebra - MIT OCW', 'Probability & Statistics - Udacity', 'Discrete Mathematics - Coursera']"
+Xử lý tín hiệu số,4.4,['Tín hiệu và hệ thống (similarity: 0.69)'],"['Digital Signal Processing - Coursera', 'Signals & Systems - MIT', 'Practical DSP', 'DSP with MATLAB']"
+Điện toán đám mây,4.3,[],"['Calculus - Khan Academy', 'Linear Algebra - MIT OCW', 'Probability & Statistics - Udacity', 'Discrete Mathematics - Coursera']"
+Điện tử cơ bản,4.4,[],['No specific course recommendations found.']
